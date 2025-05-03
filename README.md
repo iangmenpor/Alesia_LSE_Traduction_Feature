@@ -32,7 +32,7 @@ La aplicación está diseñada para facilitar la comunicación entre personas si
 - Cámara funcional
 
 ### Instalación desde archivo APK
-1. Descarga el archivo APK desde la sección de [Releases](https://github.com/iangmenpor/AlesiaGestureRecognition/releases)
+1. Descarga el archivo APK desde la sección de [Releases](https://github.com/iangmenpor/Alesia_LSE_Traduction_Feature/releases)
 2. Habilita la instalación de aplicaciones de fuentes desconocidas en tu dispositivo
 3. Abre el archivo APK y sigue las instrucciones de instalación
 
@@ -103,10 +103,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto:
 3. Realiza tus cambios y haz commit (`git commit -m 'Add some amazing feature'`)
 4. Push a la rama (`git push origin feature/amazing-feature`)
 5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 📞 Contacto
 
