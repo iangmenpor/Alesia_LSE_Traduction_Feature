@@ -11,7 +11,7 @@ La aplicación está diseñada para facilitar la comunicación entre personas si
 ### ✨ Características principales
 
 - **Reconocimiento en tiempo real** de señas del abecedario dactilológico
-- **Detección simultánea** de manos, expresiones faciales y postura corporal
+- **Detección** de manos.
 - **Traducción a texto** de las señas reconocidas
 - **Interfaz intuitiva** diseñada con principios de accesibilidad
 - **Funcionamiento offline** sin necesidad de conexión a internet
