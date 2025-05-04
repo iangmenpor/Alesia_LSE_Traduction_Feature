@@ -25,7 +25,7 @@ La aplicación está diseñada para facilitar la comunicación entre personas si
 - **Google Colab**: Para el entrenamiento de modelos personalizados
 
 ## 🧠 Entrenamiento
-Link a proyecto de Google Colabs: [https://colab.research.google.com/drive/1Yz0EGTKK17NwNYwfFeQ_VxqvWxumcXNL?usp=sharing](https://colab.research.google.com/drive/1Yz0EGTKK17NwNYwfFeQ_VxqvWxumcXNL?usp=sharing.)
+Link a proyecto de Google Colab: [https://colab.research.google.com/drive/1Yz0EGTKK17NwNYwfFeQ_VxqvWxumcXNL?usp=sharing](https://colab.research.google.com/drive/1Yz0EGTKK17NwNYwfFeQ_VxqvWxumcXNL?usp=sharing)
 ## 🚀 Instalación
 
 ### Requisitos previos
